@@ -1,6 +1,6 @@
 # Programming Assignment 2: DOM Basics
 
-See the assignment document for this programming assignment.
+See the [assignment document](https://docs.google.com/document/d/1aaPOBB6IrLTukIPTOAklVpY_8mu_AJ7khi196q65CS4/edit?usp=sharing) for this programming assignment.
 
 ## serve.json
 
